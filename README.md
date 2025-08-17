@@ -44,8 +44,4 @@
   <!-- Add more links as needed -->
 </p>
 
-<!-- Profile visitor counter (optional) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satwik-7777&style=flat-square" alt="Profile Views" />
-</p>
 
