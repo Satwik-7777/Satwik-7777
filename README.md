@@ -13,12 +13,3 @@
 ### 🚀 About Me
 - 🎓 IT student at VIT Vellore
 - 👨‍💻 I’m passionate about coding, open source, and building cool things.
-
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Figma-21130D?logo=figma&logoColor=white&style=flat-square" />
-  <!-- Add more badges as needed -->
-</p>
