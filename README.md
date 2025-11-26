@@ -13,8 +13,6 @@
 ### 🚀 About Me
 - 🎓 IT student at VIT Vellore
 - 👨‍💻 I’m passionate about coding, open source, and building cool things.
-- 🌱 Currently learning new tech and improving my skills every day.
-  
 
 ### 🛠️ Tech Stack
 <p align="left">
@@ -24,21 +22,3 @@
   <img src="https://img.shields.io/badge/-Figma-21130D?logo=figma&logoColor=white&style=flat-square" />
   <!-- Add more badges as needed -->
 </p>
-
-### 🏆Certifications
-<p align="left">
-  <a href="https://www.cloudskillsboost.google/public_profiles/509220e0-bf43-40b5-8d64-a12900e02574" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Cloud%20Arcade%20Cohort-blue?logo=googlecloud&logoColor=white&style=flat-square" alt="Google Cloud Arcade Cohort"/>
-  </a>
-</p>
-
-
-### 📫 Let's Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/satwikjaiswal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <!-- Add more links as needed -->
-</p>
-
-
