@@ -9,7 +9,3 @@
 </p>
 
 ---
-
-### 🚀 About Me
-- 🎓 IT student at VIT Vellore
-- 👨‍💻 I’m passionate about coding, open source, and building cool things.
